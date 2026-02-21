@@ -18,3 +18,4 @@ const doubledScores = scores.map((score) => {
 })
 
 console.log(doubledScores);
+
