@@ -9,3 +9,6 @@ for (let i = 0; i < scores.length; i++){
 };
 console.log(totalScore); //Output: 83
 
+tags.forEach(function (tag) {
+  console.log(tag);
+});
